@@ -19,7 +19,7 @@ It also sends ticket numbers to a Google Sheet connected through Apps Script.
 * **Hosting:** Google Apps Script (GAS)
 
 ## ⚙️ Getting Started
-These instructions will get you a copy of the project up and running on your local machine.
+These instructions will get you a copy of the project up and running on your local machine. The repository does not include the backend files.
 
 ### Prerequisites
 * [Node.js](https://nodejs.org/) installed
@@ -43,7 +43,7 @@ Run in localhost
 ## 👨‍💻 Author
 **Alberto Saborio Gonzalez**
 * [GitHub](https://github.com/Bto1790)
-* [LinkedIn](https://linkedin.com/in/yourusername)
+* [LinkedIn](www.linkedin.com/in/alberto-s-a3062a1a9)
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
