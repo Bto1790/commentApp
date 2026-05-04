@@ -43,7 +43,7 @@ Run in localhost
 ## 👨‍💻 Author
 **Alberto Saborio Gonzalez**
 * [GitHub](https://github.com/Bto1790)
-* [LinkedIn](www.linkedin.com/in/alberto-s-a3062a1a9)
+* [LinkedIn](wwww.linkedin.com/in/alberto-s-a3062a1a9)
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
