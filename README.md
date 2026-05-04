@@ -4,7 +4,7 @@
 
 ![App Screenshot/Demo](./public/images/exampleOne.png)
 ![App Screenshot/Demo](./public/images/exampleTwo.png)
-![App Screenshot/Demo](./public/images/exampleThree.png)
+![App Screenshot/Demo](./public/images/example.png)
 
 ---
 
