@@ -3,7 +3,7 @@ import View from "./view.js";
 class SideBarView extends View {
   #dashboard = false;
   #notePadState = "inactive";
-  #language = "en";
+  #language = "fr";
 
   getLanguage() {
     return this.#language;
