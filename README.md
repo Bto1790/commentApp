@@ -9,6 +9,8 @@
 ---
 
 ## 🏆 Demo
+The application is designed to be used on one side of the screen, minimizing the window thickness as much as possible.
+Some of the buttons in the demo don't work because they correspond to backend functions.
 * [Click here for demo](https://bto1790.github.io/)
 
 ---
